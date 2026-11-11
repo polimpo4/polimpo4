@@ -42,7 +42,7 @@ const duck = {
 } as const;
 ```
 
-Desenvolvedor full-stack desde 2015, a construir produtos, automações e ferramentas que resolvem problemas reais.
+Desenvolvedor full-stack desde 2005, a construir produtos, automações e ferramentas que resolvem problemas reais.
 Gosto de código limpo, infraestrutura própria e de aprender coisas novas até ao último detalhe.
 
 **🔭 A construir agora**

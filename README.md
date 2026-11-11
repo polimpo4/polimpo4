@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/followers/polimpo4?style=for-the-badge&logo=github&label=SEGUIDORES&color=7C3AED&labelColor=0D1117" alt="Seguidores" />
 </a>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpolimpo4&query=%24.public_repos&label=REPOSIT%C3%93RIOS&style=for-the-badge&logo=github&color=06B6D4&labelColor=0D1117" alt="Repositórios" />
-<img src="https://img.shields.io/badge/DESDE-2015-6D28D9?style=for-the-badge&logo=github&labelColor=0D1117" alt="Desde 2015" />
+<img src="https://img.shields.io/badge/DESDE-2015-6D28D9?style=for-the-badge&logo=github&labelColor=0D1117" alt="Desde 2005" />
 <img src="https://komarev.com/ghpvc/?username=polimpo4&label=VISITAS&color=22D3EE&style=for-the-badge" alt="Visitas ao perfil" />
 
 <br/><br/>

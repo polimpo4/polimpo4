@@ -222,9 +222,10 @@ Gosto de código limpo, infraestrutura própria e de aprender coisas novas até 
 <div align="center">
 
 <img src="https://img.shields.io/badge/25%20apps-em%20produ%C3%A7%C3%A3o-7C3AED?style=for-the-badge&labelColor=0D1117" alt="25 apps em produção" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/21-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117" alt="21 apps PHP" />
+<img src="https://img.shields.io/badge/2-Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117" alt="2 apps Node.js" />
+<img src="https://img.shields.io/badge/2-Static-22D3EE?style=for-the-badge&labelColor=0D1117" alt="2 apps static" />
+<img src="https://img.shields.io/badge/~6.2%20GB-em%20produ%C3%A7%C3%A3o-06B6D4?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=0D1117" alt="6.2 GB em produção" />
 
 </div>
 
@@ -232,47 +233,46 @@ Gosto de código limpo, infraestrutura própria e de aprender coisas novas até 
 
 | Projeto | O que é | Stack |
 | :--- | :--- | :--- |
-| [**patao.cloud**](https://patao.cloud) | Site institucional da Patao Cloud — desenvolvimento de plataformas, automação, auditoria, cibersegurança, certificação e hosting | `PHP` |
-| [**patao.xyz**](https://patao.xyz) | Plataforma de páginas *link-in-bio* personalizáveis, multi-idioma e com planos de assinatura | `PHP` |
-| [**hub.patao.cloud**](https://hub.patao.cloud) | Patao Hub — partilha de ficheiros temporários com expiração de 1 minuto, 24 horas ou permanente | `PHP` |
-| [**me.patao.cloud**](https://me.patao.cloud) | Página pessoal com portfólio, bio e experiências | `STATIC` |
-| [**prepperlog.online**](https://prepperlog.online) | PrepperLog — app de gestão de inventário de suprimentos e recursos | `STATIC` |
-| [**geodata.patao.cloud**](https://geodata.patao.cloud) | GeoData Brasil — consulta de CEPs, cidades, estados, bairros e localidades em tempo real | `PHP` |
-| [**dstatus.patao.cloud**](https://dstatus.patao.cloud) | API DStatus — referência completa dos códigos de estado HTTP (1xx a 5xx) | `PHP` |
+| [**patao.cloud**](https://patao.cloud) | Site institucional da Patao Cloud + **Patao Academy**: plataforma de certificação com exames, inscrições, emissão de certificados e login via Discord | `PHP` |
+| [**patao.xyz**](https://patao.xyz) | Plataforma de páginas *link-in-bio*: painel de administração, analytics, planos de subscrição e interface em 8 idiomas (PT, EN, ES, FR, DE, TR, RU, AR) | `PHP` |
+| [**hub.patao.cloud**](https://hub.patao.cloud) | Patao Hub: upload de ficheiros temporários (1 minuto, 24 horas ou permanente), encurtador de links e distribuição do `quacky.exe` | `PHP` |
+| [**me.patao.cloud**](https://me.patao.cloud) | Página pessoal estática com bio, portfólio e experiências | `STATIC` |
+| [**prepperlog.online**](https://prepperlog.online) | PrepperLog: PWA de gestão de inventário de suprimentos e recursos, com interface bilingue | `STATIC` |
+| [**geodata.patao.cloud**](https://geodata.patao.cloud) | GeoData Brasil: PHP 8.1 + SQLite que importa dumps de CEP, cidades, estados e KML para consultas geográficas em tempo real | `PHP` |
+| [**dstatus.patao.cloud**](https://dstatus.patao.cloud) | API DStatus: documentação e páginas individuais para cada código de estado HTTP (100 a 504) | `PHP` |
 
 ### 🩺 Saúde & Clínicas
 
 | Projeto | O que é | Stack |
 | :--- | :--- | :--- |
-| [**hdiaonc.patao.cloud**](https://hdiaonc.patao.cloud) | Plataforma do Hospital Dia de Oncologia — gestão clínica com autenticação | `PHP` |
-| [**hemadata.patao.cloud**](https://hemadata.patao.cloud) | HemaData — gestão de dados clínicos oncológicos | `PHP` |
-| [**ouvidolimpo.patao.cloud**](https://ouvidolimpo.patao.cloud) | Ouvido Limpo — marcação de consultas de remoção de cera dos ouvidos (Lagoa, Açores) | `PHP` |
-| [**hair.patao.cloud**](https://hair.patao.cloud) | Flash Hair — site de salão de beleza com serviços, agenda e contactos (WordPress/Astra) | `PHP` |
+| [**hdiaonc.patao.cloud**](https://hdiaonc.patao.cloud) | Plataforma do Hospital Dia de Oncologia: gestão de cadeirões, agendamento de consultas, dashboard e base de dados clínica | `PHP` |
+| [**hemadata.patao.cloud**](https://hemadata.patao.cloud) | HemaData: registo de doentes e consultas com escalas clínicas (FACIT-Fatigue, Distress, CTCAE, Karnofsky, ECOG), matrizes de diagnóstico/medicação e editor de escalas | `PHP` |
+| [**ouvidolimpo.patao.cloud**](https://ouvidolimpo.patao.cloud) | Ouvido Limpo: backoffice de clínica com marcações, clientes, intervenções, pagamentos e estatísticas em SQLite | `PHP` |
+| [**hair.patao.cloud**](https://hair.patao.cloud) | Flash Hair: site de salão de beleza em WordPress com tema Astra Child | `PHP` `WordPress` |
 
 ### 🎮 Jogos & Comunidade
 
 | Projeto | O que é | Stack |
 | :--- | :--- | :--- |
-| [**duckosrs.patao.cloud**](https://duckosrs.patao.cloud) | DuckOSRS — launcher para Old School RuneScape com suporte avançado a plugins | `PHP` |
-| [**osrs.patao.cloud**](https://osrs.patao.cloud) | Ferramentas OSRS via API oficial — rankings, clãs, Grand Exchange e Runemetrics | `PHP` |
-| [**galoai.patao.cloud**](https://galoai.patao.cloud) | Jogo do Galo com IA baseada no algoritmo Minimax | `PHP` |
-| [**oye.patao.cloud**](https://oye.patao.cloud) | Only You Exist — visual novel com escolhas que mudam o rumo da história | `PHP` |
-| [**wordit.patao.cloud**](https://wordit.patao.cloud) | Jogo de palavras construído em Node.js | `NODEJS` |
-| [**meeter.patao.cloud**](https://meeter.patao.cloud) | Chat em tempo real via WebSocket | `PHP` |
-| [**websocketmeeter.patao.cloud**](https://websocketmeeter.patao.cloud) | Servidor WebSocket que suporta o Meeter | `NODEJS` |
-| [**anonymously.patao.cloud**](https://anonymously.patao.cloud) | Chat anónimo com área de registo escondida — um desafio de *web debugging* | `PHP` |
-| [**cobot.patao.cloud**](https://cobot.patao.cloud) | Cobot Status — monitorização de estado e uptime do bot de Discord | `PHP` |
-| [**codehelp.patao.cloud**](https://codehelp.patao.cloud) | CodeHelp — bot privado de Discord para moderação inteligente, ensino de programação e gamificação | `PHP` |
+| [**duckosrs.patao.cloud**](https://duckosrs.patao.cloud) | DuckOSRS: launcher para Old School RuneScape com downloads versionados e API de heartbeat e estatísticas | `PHP` |
+| [**osrs.patao.cloud**](https://osrs.patao.cloud) | Ferramentas OSRS via API oficial: ranking, jogadores, clãs, Grand Exchange e Runemetrics | `PHP` |
+| [**galoai.patao.cloud**](https://galoai.patao.cloud) | Jogo do Galo com IA baseada no algoritmo Minimax (base GPL de Clederson Cruz, 2017) | `PHP` |
+| [**oye.patao.cloud**](https://oye.patao.cloud) | Only You Exist: visual novel com personagens, galeria, blog e escolhas que ramificam a história | `PHP` |
+| [**wordit.patao.cloud**](https://wordit.patao.cloud) | Pesquisa de Palavras: jogo de palavras com dicionário de 22 MB e Socket.IO | `NODEJS` |
+| [**meeter.patao.cloud**](https://meeter.patao.cloud) | Chat em tempo real (front-end WebSocket) | `PHP` |
+| [**websocketmeeter.patao.cloud**](https://websocketmeeter.patao.cloud) | Servidor Node.js + Socket.IO que alimenta o Meeter | `NODEJS` |
+| [**anonymously.patao.cloud**](https://anonymously.patao.cloud) | Chat anónimo em PHP OOP (Models/Repositories), verificação por email, sistema de bans e servidor WebSocket | `PHP` |
+| [**cobot.patao.cloud**](https://cobot.patao.cloud) | Cobot Status: monitorização de estado e uptime do bot de Discord via endpoint local | `PHP` |
+| [**codehelp.patao.cloud**](https://codehelp.patao.cloud) | CodeHelp: landing page do bot privado de Discord focado em moderação inteligente e ensino de programação | `PHP` |
 
 ### 🧪 Ferramentas & Demos
 
 | Projeto | O que é | Stack |
 | :--- | :--- | :--- |
-| [**sandbox.patao.cloud**](https://sandbox.patao.cloud) | Sandbox de CSS e pseudo-classes para testes rápidos | `PHP` |
-| [**stripe.patao.cloud**](https://stripe.patao.cloud) | Demo de pagamento MB WAY com Stripe em PHP vanilla | `PHP` |
-| [**traduz.patao.cloud**](https://traduz.patao.cloud) | Traduz — identidade visual e posicionamento de marca | `PHP` |
-| [**wumme.patao.cloud**](https://wumme.patao.cloud) | "24 Hours Button" — experiência interativa em torno de um botão de 24 horas | `PHP` |
-
+| [**sandbox.patao.cloud**](https://sandbox.patao.cloud) | Sandbox de CSS com 5 páginas de demonstração de pseudo-classes | `PHP` |
+| [**stripe.patao.cloud**](https://stripe.patao.cloud) | Integrações Stripe: MB WAY, Multibanco, subscrições, faturas em PDF (TCPDF) e webhooks | `PHP` |
+| [**traduz.patao.cloud**](https://traduz.patao.cloud) | Traduz: landing page de identidade visual e posicionamento de marca (em preparação) | `PHP` |
+| [**wumme.patao.cloud**](https://wumme.patao.cloud) | "24 Hours Button": jogo com login OAuth via Discord, dashboard e cooldown de 24 horas | `PHP` |
 ---
 
 ## 💬 Dev Quote

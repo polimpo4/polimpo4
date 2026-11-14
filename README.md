@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/followers/polimpo4?style=for-the-badge&logo=github&label=SEGUIDORES&color=7C3AED&labelColor=0D1117" alt="Seguidores" />
 </a>
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpolimpo4&query=%24.public_repos&label=REPOSIT%C3%93RIOS&style=for-the-badge&logo=github&color=06B6D4&labelColor=0D1117" alt="Repositórios" />
-<img src="https://img.shields.io/badge/DESDE-2015-6D28D9?style=for-the-badge&logo=github&labelColor=0D1117" alt="Desde 2005" />
+<img src="https://img.shields.io/badge/DESDE-2005-6D28D9?style=for-the-badge&logo=github&labelColor=0D1117" alt="Desde 2005" />
 <img src="https://komarev.com/ghpvc/?username=polimpo4&label=VISITAS&color=22D3EE&style=for-the-badge" alt="Visitas ao perfil" />
 
 <br/><br/>
@@ -191,7 +191,7 @@ Gosto de código limpo, infraestrutura própria e de aprender coisas novas até 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/11%2B%20anos-a%20programar-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="11+ anos a programar" />
+<img src="https://img.shields.io/badge/21%2B%20anos-a%20programar-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="21+ anos a programar" />
 <img src="https://img.shields.io/badge/Full--Stack-Developer-7C3AED?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" alt="Full-Stack Developer" />
 <img src="https://img.shields.io/badge/Foco-Seguran%C3%A7a%20%26%20Automa%C3%A7%C3%A3o-06B6D4?style=for-the-badge&labelColor=0D1117" alt="Segurança e automação" />
 <img src="https://img.shields.io/badge/Self--Hosting-sim-22D3EE?style=for-the-badge&logo=linux&logoColor=white&labelColor=0D1117" alt="Self-Hosting" />
